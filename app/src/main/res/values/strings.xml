@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Soccer</string>
+    <string name="free_kick">Free Kick!</string>
+    <string name="goal">Goal!</string>
+    <string name="reset">Reset</string>
+    <string name="team_A">Team A</string>
+    <string name="team_B">Team B</string>
+    <string name="foul">Foul!</string>
+    <string name="zero">0</string>
+    <string name="myText">The Rules Are: "\n"
+                        every 2 fouls = 1 Yellow Card  "\n"
+                        every 2 Yellow cards = 1 Red Card</string>
+</resources>
